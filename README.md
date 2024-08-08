@@ -10,8 +10,8 @@ La forma en pixeles de la entrada es 128x128x3 y la forma de la salida es 128x12
 Para construir el sistema se dispone de un conjunto de "entrenamiento", es decir, muchos pares de la forma (X,Y) donde Y es la distribución de masa correcta para X. Sin embargo, el sistema se evaluará sobre un conjunto de pruebas, es decir, un conjunto de casos para los cuales los participantes sólo conocerán X.
 ## Links Importantes
 
-* [Pagina Principal](https://dataton.inf.utfsm.cl/)
-* [Pagina en Codabench](https://www.codabench.org/competitions/3583/#/pages-tab)
-* [Descarga de datos](https://descargas.inf.santiago.usm.cl/train/1.tar.gz)
-* [Drive Para Lecturas](https://drive.google.com/drive/folders/1L9aRpMQ1WaiCz-u3MBoK-nQmLNkvShfT?usp=drive_link)
+* [Página Principal del evento](https://dataton.inf.utfsm.cl/)
+* [Página del evento en Codabench](https://www.codabench.org/competitions/3583/#/pages-tab)
+* [Link para descarga de datos](https://descargas.inf.santiago.usm.cl/train/1.tar.gz)
+* [Un Drive con las lecturas realizadas](https://drive.google.com/drive/folders/1L9aRpMQ1WaiCz-u3MBoK-nQmLNkvShfT?usp=drive_link)
 * [Overleaf para bitacora y tomar notas:](https://www.overleaf.com/read/gphwhzxdvwfv#7c86f3)
