@@ -12,6 +12,19 @@ Para construir el sistema se dispone de un conjunto de "entrenamiento", es decir
 
 * [Página Principal del evento](https://dataton.inf.utfsm.cl/)
 * [Página del evento en Codabench](https://www.codabench.org/competitions/3583/#/pages-tab)
-* [Link para descarga de datos](https://descargas.inf.santiago.usm.cl/train/1.tar.gz)
 * [Un Drive con las lecturas realizadas](https://drive.google.com/drive/folders/1L9aRpMQ1WaiCz-u3MBoK-nQmLNkvShfT?usp=drive_link)
 * [Overleaf para bitacora y tomar notas:](https://www.overleaf.com/read/gphwhzxdvwfv#7c86f3)
+
+## Links para descargar los datos
+### Entrenamiento
+* [Link para descarga de datos 1](https://descargas.inf.santiago.usm.cl/train/1.tar.gz)
+* [Link para descarga de datos 2](https://descargas.inf.santiago.usm.cl/train/2.tar.gz)
+* [Link para descarga de datos 3](https://descargas.inf.santiago.usm.cl/train/3.tar.gz)
+* [Link para descarga de datos 4](https://descargas.inf.santiago.usm.cl/train/4.tar.gz)
+* [Link para descarga de datos 5](https://descargas.inf.santiago.usm.cl/train/5.tar.gz)
+* [Link para descarga de datos 6](https://descargas.inf.santiago.usm.cl/train/6.tar.gz)
+* [Link para descarga de datos 7](https://descargas.inf.santiago.usm.cl/train/7.tar.gz)
+* [Link para descarga de datos 8](https://descargas.inf.santiago.usm.cl/train/8.tar.gz)
+
+### Validación
+*[Link para descarga de datos](https://descargas.inf.santiago.usm.cl/test_public.tar.gz)
