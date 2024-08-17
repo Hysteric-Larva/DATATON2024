@@ -27,4 +27,4 @@ Para construir el sistema se dispone de un conjunto de "entrenamiento", es decir
 * [Link para descarga de datos 8](https://descargas.inf.santiago.usm.cl/train/8.tar.gz)
 
 ### Validación
-*[Link para descarga de datos](https://descargas.inf.santiago.usm.cl/test_public.tar.gz)
+* [Link para descarga de datos](https://descargas.inf.santiago.usm.cl/test_public.tar.gz)
